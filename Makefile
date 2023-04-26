@@ -1,11 +1,11 @@
 ####################
 # Makefile
 # Author: Cole Sigmon
-# Date: April 18, 2023
+# Date: April 25, 2023
 #
-# COSC 3750, Homework 8
+# COSC 3750, Homework 9
 #
-# This is a make file for wytalk.
+# This is a make file for wyshell.
 # Implemented with a clean method.
 ####################
 
