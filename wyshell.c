@@ -1,9 +1,9 @@
 /*
  * wyshell.c
  * Author : Cole Sigmon
- * Date : April 18, 2023
+ * Date : April 25, 2023
  * 
- * COSC 3750, Homework 8
+ * COSC 3750, Homework 9
  * 
  * This is wyshell.c it is a beginning of a shell.
  */
